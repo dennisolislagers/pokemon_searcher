@@ -1,0 +1,32 @@
+body{
+    background-color: yellow;
+
+}
+header{
+    display:block;
+    text-align: center;
+    padding:20px;
+}
+Button{
+    padding: 20px;
+    margin: 20px;
+    color: yellow;
+    background-color: darkblue;
+    border-radius: 10px;
+}
+.pokemon-container {
+    display: flex;
+    align-items: baseline;
+    align-content: flex-start;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.pokemon-items{
+    padding: 20px;
+    align-self: flex-start;
+    color: yellow;
+    background-color:darkblue;
+    margin: 10px;
+    border-radius: 10px;
+}
