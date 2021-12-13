@@ -24,9 +24,11 @@ Button{
 }
 .pokemon-items{
     padding: 20px;
-    align-self: flex-start;
     color: yellow;
     background-color:darkblue;
     margin: 10px;
     border-radius: 10px;
+    width:15%;
+    height: 480px;
+    text-align: center;
 }
